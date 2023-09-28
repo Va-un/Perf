@@ -1,0 +1,8 @@
+pymongo[srv]
+streamlit
+pymongo
+pyserial
+pandas
+Pillow
+sounddevice
+pydub
